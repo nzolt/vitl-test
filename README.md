@@ -11,6 +11,6 @@ WEB:
 - http://localhost:99/users/getlist
 
 API:
-- [GET] http://localhost:99/index.php/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25
+- [GET, POST] http://localhost:99/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25
 
 ***
