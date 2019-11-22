@@ -3,6 +3,7 @@
 namespace App\Http\Middleware;
 
 use Closure;
+use Illuminate\Http\Request;
 
 class ApiAuth
 {
@@ -15,7 +16,7 @@ class ApiAuth
      */
     public function handle($request, Closure $next)
     {
-        if ($request->get('apikey') == env('APIKEY') || $request->path() == 'users/getlist') {
+        if ($request->get('apikey') == env('APIKEY')) {
             return $next($request);
         }
         return response()->json(['error' => 'Not authorized.'],403);

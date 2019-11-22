@@ -16,8 +16,7 @@ use Illuminate\Http\Request;
 /**
  * Defined routes for Calculator
  */
-Route::group(['middleware' => ['apiauth']], function () {
-    Route::get('users/listall', 'UsersApiController@listAllAction')->name('users.apilistall')->middleware('apiauth');
-    Route::get('users/list', 'UsersApiController@listAction')->name('users.apilist')->middleware('apiauth');
-});
+Route::match(['GET', 'POST'], 'users/listall', 'UsersApiController@listAllAction')->name('users.apilistall')->middleware('apiauth');
+Route::match(['GET', 'POST'], 'users/list', 'UsersApiController@listAction')->name('users.apilist')->middleware('apiauth');
+
 

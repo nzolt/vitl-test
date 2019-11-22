@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f6839474-a62c-49c8-8e72-a6e8e757cc91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.logs/vitl/nginx/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/vitl/nginx/access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/images/nginx/etc/nginx/conf.d/vitl.conf" beforeDir="false" afterPath="$PROJECT_DIR$/docker/images/nginx/etc/nginx/conf.d/vitl.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Http/Middleware/ApiAuth.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Http/Middleware/ApiAuth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/api.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -231,7 +235,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574278034323</updated>
       <workItem from="1574278035642" duration="24943000" />
-      <workItem from="1574428667643" duration="12686000" />
+      <workItem from="1574428667643" duration="14534000" />
     </task>
     <servers />
   </component>
