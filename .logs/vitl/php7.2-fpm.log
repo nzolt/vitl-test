@@ -1,0 +1,24 @@
+[21-Nov-2019 11:40:27] NOTICE: fpm is running, pid 12
+[21-Nov-2019 11:40:27] NOTICE: ready to handle connections
+[21-Nov-2019 11:40:27] NOTICE: systemd monitor interval set to 10000ms
+[22-Nov-2019 11:56:38] NOTICE: Finishing ...
+[22-Nov-2019 11:56:38] NOTICE: exiting, bye-bye!
+[22-Nov-2019 11:56:38] NOTICE: fpm is running, pid 7319
+[22-Nov-2019 11:56:38] NOTICE: ready to handle connections
+[22-Nov-2019 11:56:38] NOTICE: systemd monitor interval set to 10000ms
+[22-Nov-2019 11:56:39] ERROR: unable to bind listening socket for address '0.0.0.0:9000': Address already in use (98)
+[22-Nov-2019 11:56:39] ERROR: FPM initialization failed
+[22-Nov-2019 11:56:40] ERROR: unable to bind listening socket for address '0.0.0.0:9000': Address already in use (98)
+[22-Nov-2019 11:56:40] ERROR: FPM initialization failed
+[22-Nov-2019 11:56:43] ERROR: unable to bind listening socket for address '0.0.0.0:9000': Address already in use (98)
+[22-Nov-2019 11:56:43] ERROR: FPM initialization failed
+[22-Nov-2019 11:56:46] ERROR: unable to bind listening socket for address '0.0.0.0:9000': Address already in use (98)
+[22-Nov-2019 11:56:46] ERROR: FPM initialization failed
+[22-Nov-2019 11:56:51] NOTICE: fpm is running, pid 12
+[22-Nov-2019 11:56:51] NOTICE: ready to handle connections
+[22-Nov-2019 11:56:51] NOTICE: systemd monitor interval set to 10000ms
+[22-Nov-2019 11:58:24] NOTICE: Terminating ...
+[22-Nov-2019 11:58:24] NOTICE: exiting, bye-bye!
+[22-Nov-2019 11:59:01] NOTICE: fpm is running, pid 12
+[22-Nov-2019 11:59:01] NOTICE: ready to handle connections
+[22-Nov-2019 11:59:01] NOTICE: systemd monitor interval set to 10000ms

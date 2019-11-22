@@ -1,0 +1,47 @@
+version: '3.3'
+
+services:
+
+  nginx-vitl:
+    container_name: nginx-vitl
+    hostname: vitl
+    build: ./docker/images/nginx
+    networks:
+      - dev
+    ports:
+      - 99:80
+    volumes:
+      - ./src:/var/www/src
+      - ./.logs/vitl:/var/log
+      - ./docker/images/nginx/etc/nginx/conf.d:/etc/nginx/conf.d
+
+  php-vitl:
+    container_name: php-vitl
+    build: ./docker/images/php
+    networks:
+      - dev
+    volumes:
+      - ./.logs/vitl:/var/log
+      - ./src:/var/www/src
+    restart: unless-stopped
+
+  mysql-vitl:
+    container_name: mysql-vitl
+    image: mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: vitlpass
+      MYSQL_DATABASE: vitl
+      MYSQL_USER: vitl
+      MYSQL_PASSWORD: vitlpass
+    ports:
+      - 3306:3306
+    volumes:
+      - ./.data/vitl/mysql:/var/lib/mysql
+    restart: unless-stopped
+    networks:
+      - dev
+
+networks:
+  dev:
+    driver: bridge
+

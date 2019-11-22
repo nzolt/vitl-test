@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6839474-a62c-49c8-8e72-a6e8e757cc91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.data/itl/mysql/names.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/nginx/sites-available/vitl.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/aria_log.00000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/aria_log_control" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/ib_buffer_pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/ib_logfile0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/ib_logfile1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/ibdata1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/ibtmp1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/multi-master.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/column_stats.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/column_stats.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/column_stats.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/columns_priv.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/columns_priv.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/columns_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/db.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/db.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/db.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/event.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/event.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/event.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/func.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/func.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/func.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/general_log.CSM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/general_log.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/general_log.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/global_priv.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/global_priv.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/global_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/gtid_slave_pos.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/gtid_slave_pos.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_category.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_category.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_category.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_keyword.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_keyword.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_keyword.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_relation.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_relation.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_relation.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_topic.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_topic.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/help_topic.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/index_stats.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/index_stats.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/index_stats.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/innodb_index_stats.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/innodb_index_stats.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/innodb_table_stats.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/innodb_table_stats.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/plugin.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/plugin.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/plugin.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/proc.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/proc.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/proc.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/procs_priv.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/procs_priv.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/procs_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/proxies_priv.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/proxies_priv.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/proxies_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/roles_mapping.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/roles_mapping.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/roles_mapping.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/servers.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/servers.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/servers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/slow_log.CSM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/slow_log.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/slow_log.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/table_stats.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/table_stats.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/table_stats.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/tables_priv.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/tables_priv.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/tables_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_leap_second.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_leap_second.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_leap_second.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_name.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_name.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_transition.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_transition.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_transition.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_transition_type.MAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_transition_type.MAI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/time_zone_transition_type.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/transaction_registry.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/transaction_registry.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/mysql/user.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/performance_schema/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/vitl/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/vitl/names.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/vitl/users.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.data/vitl/mysql/vitl/users.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3eedf264-a26e-4196-b759-dc3c77338702.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3eedf264-a26e-4196-b759-dc3c77338702/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/de3a1e36-f888-4df5-ad92-3fc3042c754a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vitl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.logs/vitl/alternatives.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.logs/vitl/apt/eipp.log.xz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.logs/vitl/apt/history.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.logs/vitl/apt/term.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.logs/vitl/dpkg.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.logs/vitl/nginx/access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.logs/vitl/nginx/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.logs/vitl/php7.2-fpm.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/images/nginx/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/images/nginx/etc/nginx/conf.d/vitl.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/images/php/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/images/php/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Data/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/UsersApiController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Middleware/ApiAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Model/UsersModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/flare.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/names.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/php/7.2/fpm/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/bootstrap/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/bootstrap/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/bootstrap/usebootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/theme/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/theme/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/theme/usebootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/theme/usebootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/theme/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/views/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/api-docs/api-docs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Feature/BinaryTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Feature/DecimalTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Unit/BinaryTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Unit/DecimalTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webpack.mix.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="vitl: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="vitl: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="users: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/src/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/src/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/src/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/src/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/src/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/src/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/src/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/src/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/src/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/src/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/src/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/src/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/src/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/src/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/src/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/src/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/src/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/src/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/src/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/src/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/src/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/src/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/src/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/src/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/src/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/src/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/src/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/src/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/src/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/src/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/src/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/src/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/src/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/src/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/src/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/error-handler" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1TtSjbaaSVoctp5e4FDKiJjQRaU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/Http/Controllers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/images/nginx/etc/nginx/conf.d" />
+      <recent name="$PROJECT_DIR$/docker/images/nginx/etc/nginx/sites-enabled" />
+      <recent name="$PROJECT_DIR$/docker/images/nginx/root/etc/nginx/conf.d" />
+      <recent name="$PROJECT_DIR$/docker/images/nginx/root" />
+      <recent name="$PROJECT_DIR$/docker/images/nginx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/.data/nginx/sites-available" />
+      <recent name="$PROJECT_DIR$/.data/itl/mysql/" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@b8ca30dd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@b8ca30dd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@197684d5" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@277fa918" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@277fa918" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@338c99ff" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6839474-a62c-49c8-8e72-a6e8e757cc91" name="Default Changelist" comment="" />
+      <created>1574278034323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574278034323</updated>
+      <workItem from="1574278035642" duration="24943000" />
+      <workItem from="1574428667643" duration="11902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

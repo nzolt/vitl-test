@@ -1,0 +1,82 @@
+2019/11/21 11:40:45 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 11:41:20 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 11:43:34 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 11:44:28 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 11:46:25 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 11:47:28 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 11:48:37 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 11:49:20 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 11:55:14 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/21 13:06:35 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 07:49:50 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 07:51:54 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 07:52:52 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 07:53:48 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:46:21 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:47:37 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:48:38 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:50:18 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:51:10 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:52:42 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:52:46 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:53:01 [emerg] 1#1: open() "/etc/nginx/sites-enabled/vitl.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:63
+2019/11/22 09:54:34 [emerg] 1#1: open() "/etc/nginx/fascgi.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/vitl.conf:28
+2019/11/22 09:59:42 [emerg] 1#1: open() "/etc/nginx/fascgi.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/vitl.conf:28
+2019/11/22 10:02:59 [emerg] 342#342: open() "/etc/nginx/resolvers.conf" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2019/11/22 10:04:09 [emerg] 1#1: open() "/etc/nginx/fascgi.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/vitl.conf:28
+2019/11/22 10:05:21 [emerg] 1#1: open() "/etc/nginx/fascgi.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/vitl.conf:28
+2019/11/22 10:05:59 [emerg] 1#1: open() "/etc/nginx/fascgi.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/vitl.conf:28
+2019/11/22 10:07:58 [emerg] 1#1: open() "/etc/nginx/fascgi.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/vitl.conf:28
+2019/11/22 10:10:52 [emerg] 1#1: open() "/etc/nginx/fascgi.conf" failed (2: No such file or directory) in /etc/nginx/sites-enabled/vitl.conf:28
+2019/11/22 10:17:46 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:18:35 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:21:09 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:21:26 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:22:33 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:25:04 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:25:21 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:26:47 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:29:47 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:33:01 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:36:43 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:40:31 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:41:25 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:44:30 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:48:57 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 10:52:53 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 11:11:41 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 11:12:16 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 11:15:05 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 11:15:46 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 11:18:34 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 11:20:04 [emerg] 1#1: unknown directive "more_clear_headers" in /etc/nginx/conf.d/security.conf:2
+2019/11/22 11:23:47 [error] 8#8: *2 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:99", referrer: "http://localhost:99/"
+2019/11/22 11:25:54 [alert] 1#1: unknown process 3040 exited on signal 1
+2019/11/22 11:29:31 [alert] 1#1: unknown process 579 exited on signal 1
+2019/11/22 11:31:56 [error] 7#7: *1 directory index of "/var/www/src/public/" is forbidden, client: 172.18.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:99"
+2019/11/22 11:31:58 [error] 7#7: *1 directory index of "/var/www/src/public/" is forbidden, client: 172.18.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:99"
+2019/11/22 11:32:25 [error] 7#7: *1 directory index of "/var/www/src/public/" is forbidden, client: 172.18.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:99"
+2019/11/22 11:34:27 [alert] 1#1: unknown process 270 exited on signal 1
+2019/11/22 11:35:39 [error] 7#7: *6 directory index of "/var/www/src/public/" is forbidden, client: 172.18.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:99"
+2019/11/22 11:56:48 [error] 302#302: *24 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 172.18.0.1, server: _, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 12:49:25 [warn] 302#302: *32 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/form HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 12:59:33 [warn] 302#302: *152 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/form?apikey=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 13:13:07 [warn] 302#302: *162 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/00/0000000003 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/form?apikey=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 13:21:30 [warn] 302#302: *165 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/00/0000000004 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/form?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 13:47:21 [warn] 302#302: *171 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/00/0000000005 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 13:49:34 [warn] 302#302: *175 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/00/0000000006 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=asd HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 13:53:10 [warn] 302#302: *181 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/00/0000000007 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 13:56:44 [warn] 302#302: *185 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/00/0000000008 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 14:13:55 [warn] 302#302: *201 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/00/0000000009 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 14:16:31 [warn] 302#302: *205 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/0/01/0000000010 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 14:31:49 [warn] 302#302: *223 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/01/0000000011 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/api/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 14:46:20 [warn] 302#302: *241 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/01/0000000012 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 14:58:38 [warn] 302#302: *244 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/01/0000000013 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 14:59:05 [warn] 302#302: *244 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/01/0000000014 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 15:01:51 [warn] 302#302: *254 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/01/0000000015 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 15:12:00 [warn] 302#302: *265 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/01/0000000016 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 15:14:52 [warn] 302#302: *268 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/01/0000000017 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99"
+2019/11/22 15:20:47 [warn] 302#302: *288 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/01/0000000018 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25&page=3 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99", referrer: "http://localhost:99/index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25&page=2"
+2019/11/22 15:26:17 [warn] 302#302: *300 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/01/0000000019 while reading upstream, client: 172.18.0.1, server: _, request: "GET /index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25&page=3 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:99", referrer: "http://localhost:99/index.php/users/list?apikey=4ea1aff2-5d92-4605-b2eb-95c1750317a1&terms=James&dupes=true&limit=25&page=2"
+2019/11/22 16:26:13 [alert] 1#1: unknown process 330 exited on signal 1
+2019/11/22 16:26:45 [alert] 1#1: unknown process 337 exited on signal 1

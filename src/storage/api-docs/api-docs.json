@@ -1,0 +1,87 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Calculator API",
+        "version": "1.0.0"
+    },
+    "paths": {
+        "/api/form": {
+            "post": {
+                "tags": [
+                    "Calculate"
+                ],
+                "summary": "Perform basic calculation",
+                "description": "Returns string",
+                "operationId": "calculate",
+                "requestBody": {
+                    "description": "Input data format",
+                    "content": {
+                        "application/x-www-form-urlencoded": {
+                            "schema": {
+                                "required": [
+                                    "valuea",
+                                    "valueb",
+                                    "operator",
+                                    "appcode",
+                                    "apikey"
+                                ],
+                                "properties": {
+                                    "valuea": {
+                                        "title": "First value",
+                                        "description": "Value A",
+                                        "type": "string",
+                                        "maxLength": 32,
+                                        "pattern": "/^[-]?[\\d]+/",
+                                        "example": "1234"
+                                    },
+                                    "valueb": {
+                                        "title": "Second value",
+                                        "description": "Value B",
+                                        "type": "string",
+                                        "maxLength": 32,
+                                        "pattern": "/^[-]?[\\d]+/",
+                                        "example": "1234"
+                                    },
+                                    "operator": {
+                                        "title": "Operator",
+                                        "description": "Operator",
+                                        "type": "string",
+                                        "maxLength": 4,
+                                        "example": "1234"
+                                    },
+                                    "appkey": {
+                                        "title": "AppKey",
+                                        "description": "Application key",
+                                        "type": "string",
+                                        "maxLength": 8,
+                                        "example": "calc"
+                                    },
+                                    "apikey": {
+                                        "title": "API Key",
+                                        "description": "API Key",
+                                        "type": "string",
+                                        "maxLength": 32,
+                                        "example": "c89fd9a0-4f5c-4de7-a10b-b7338cf4355c"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    }
+                },
+                "security": [
+                    {
+                        "api_auth": [
+                            "write:calc"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

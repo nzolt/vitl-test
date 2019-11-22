@@ -1,0 +1,15 @@
+
+Start-Date: 2019-11-22  11:23:26
+Commandline: apt install curl
+Install: libssh2-1:amd64 (1.8.0-2.1, automatic), libkrb5-3:amd64 (1.17-3, automatic), libgssapi-krb5-2:amd64 (1.17-3, automatic), libnghttp2-14:amd64 (1.36.0-2+deb10u1, automatic), publicsuffix:amd64 (20190415.1030-1, automatic), libsasl2-modules-db:amd64 (2.1.27+dfsg-1, automatic), libcurl4:amd64 (7.64.0-4, automatic), libldap-2.4-2:amd64 (2.4.47+dfsg-3+deb10u1, automatic), openssl:amd64 (1.1.1d-0+deb10u2, automatic), libpsl5:amd64 (0.20.2-2, automatic), libk5crypto3:amd64 (1.17-3, automatic), libsasl2-2:amd64 (2.1.27+dfsg-1, automatic), krb5-locales:amd64 (1.17-3, automatic), librtmp1:amd64 (2.4+20151223.gitfa8646d.1-2, automatic), libsasl2-modules:amd64 (2.1.27+dfsg-1, automatic), libkrb5support0:amd64 (1.17-3, automatic), libldap-common:amd64 (2.4.47+dfsg-3+deb10u1, automatic), libkeyutils1:amd64 (1.6-6, automatic), ca-certificates:amd64 (20190110, automatic), curl:amd64 (7.64.0-4)
+End-Date: 2019-11-22  11:23:31
+
+Start-Date: 2019-11-22  11:24:01
+Commandline: apt install mc
+Install: mc:amd64 (3:4.8.22-1), xdg-user-dirs:amd64 (0.17-2, automatic), perl-modules-5.28:amd64 (5.28.1-6, automatic), netbase:amd64 (5.6, automatic), mime-support:amd64 (3.62, automatic), mc-data:amd64 (3:4.8.22-1, automatic), libmagic1:amd64 (1:5.35-4+deb10u1, automatic), libperl5.28:amd64 (5.28.1-6, automatic), libmagic-mgc:amd64 (1:5.35-4+deb10u1, automatic), libgdbm6:amd64 (1.18.1-4, automatic), xz-utils:amd64 (5.2.4-1, automatic), shared-mime-info:amd64 (1.10-1, automatic), unzip:amd64 (6.0-23+deb10u1, automatic), bzip2:amd64 (1.0.6-9.2~deb10u1, automatic), libgpm2:amd64 (1.20.7-5, automatic), libglib2.0-data:amd64 (2.58.3-2+deb10u2, automatic), file:amd64 (1:5.35-4+deb10u1, automatic), perl:amd64 (5.28.1-6, automatic), libgdbm-compat4:amd64 (1.18.1-4, automatic), libglib2.0-0:amd64 (2.58.3-2+deb10u2, automatic), libslang2:amd64 (2.3.2-2, automatic)
+End-Date: 2019-11-22  11:24:13
+
+Start-Date: 2019-11-22  11:28:21
+Commandline: apt install mc -y
+Install: libssh2-1:amd64 (1.8.0-2.1, automatic), mc:amd64 (3:4.8.22-1), xdg-user-dirs:amd64 (0.17-2, automatic), perl-modules-5.28:amd64 (5.28.1-6, automatic), netbase:amd64 (5.6, automatic), mime-support:amd64 (3.62, automatic), mc-data:amd64 (3:4.8.22-1, automatic), libmagic1:amd64 (1:5.35-4+deb10u1, automatic), libperl5.28:amd64 (5.28.1-6, automatic), libmagic-mgc:amd64 (1:5.35-4+deb10u1, automatic), libgdbm6:amd64 (1.18.1-4, automatic), xz-utils:amd64 (5.2.4-1, automatic), shared-mime-info:amd64 (1.10-1, automatic), unzip:amd64 (6.0-23+deb10u1, automatic), bzip2:amd64 (1.0.6-9.2~deb10u1, automatic), libgpm2:amd64 (1.20.7-5, automatic), libglib2.0-data:amd64 (2.58.3-2+deb10u2, automatic), file:amd64 (1:5.35-4+deb10u1, automatic), perl:amd64 (5.28.1-6, automatic), libgdbm-compat4:amd64 (1.18.1-4, automatic), libglib2.0-0:amd64 (2.58.3-2+deb10u2, automatic), libslang2:amd64 (2.3.2-2, automatic)
+End-Date: 2019-11-22  11:28:34
